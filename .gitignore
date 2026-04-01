@@ -199,4 +199,5 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
-
+# 忽略 Windows 的跨系统安全标记文件
+*:Zone.Identifier
